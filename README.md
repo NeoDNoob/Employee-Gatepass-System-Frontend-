@@ -1,0 +1,1 @@
+This is project made by Neo Genesis Garcia, a student of Lyceum de San Pablo practicing his OJT at QUEZON ELECTRIC COOPERATIVE INCORPORTAION. This project was built with React with Vite as bundler. Other technologies used are: Tailwindcss, ShadCN Components and lucide for icons. He used axios for endpoint calls as well.

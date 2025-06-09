@@ -1,0 +1,1220 @@
+{
+  "gatepasses": [
+    {
+      "department": "Operations and Maintenance",
+      "destination": "Gumaca",
+      "employees": [
+        "MIchael Delma",
+        "Cristina Yap-Diangco",
+        "Isabel Riverdale"
+      ],
+      "preparedBy": "Cecilion Damnia",
+      "assignatory": "Almada Opreson",
+      "purpose": "going on a trip",
+      "dateTimeRange": {
+        "from": "2025-04-09T23:00:00.000Z",
+        "to": "2025-04-10T09:00:00.000Z"
+      },
+      "id": "GP-001"
+    },
+    {
+      "id": "GP-002",
+      "department": "Operations and Maintenance",
+      "destination": "Gumaca",
+      "employees": [
+        "MIchael Delma",
+        "Almada Opreson",
+        "Cristina Yap-Diangco"
+      ],
+      "preparedBy": "Cristina Yap-Diangco",
+      "assignatory": "Almada Opreson",
+      "purpose": "going on a trip",
+      "dateTimeRange": {
+        "from": "Apr 10, 2025 09:00 AM",
+        "to": "Apr 11, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "cristy"
+    },
+    {
+      "id": "GP-003",
+      "department": "Corporate Planning",
+      "destination": "Gumaca",
+      "employees": [
+        "Maria Gonzales",
+        "Ana Balagtas",
+        "Lex Barcelona"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "Gagala sa gumaca",
+      "dateTimeRange": {
+        "from": "Apr 10, 2025 09:00 AM",
+        "to": "Apr 11, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-004",
+      "department": "Internal Audit",
+      "destination": "Gumaca",
+      "employees": [
+        "Isabel Rivera"
+      ],
+      "preparedBy": "Sigfred Oribaiana",
+      "assignatory": "Sigfred Oribiana",
+      "purpose": "Auditing ",
+      "dateTimeRange": {
+        "from": "Apr 11, 2025 09:00 AM",
+        "to": "Apr 12, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "sigfred"
+    },
+    {
+      "id": "GP-005",
+      "department": "Corporate Planning",
+      "destination": "San Andres",
+      "employees": [
+        "Maria Gonzales",
+        "Jose Aquino",
+        "Ana Balagtas"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "Visiting",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-006",
+      "department": "Corporate Planning",
+      "destination": "Gumaca",
+      "employees": [
+        "Maria Gonzales",
+        "Neo Garcia",
+        "Ana Balagtas"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "Bar",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-007",
+      "department": "Corporate Planning",
+      "destination": "Mulanay",
+      "employees": [
+        "Jose Aquino",
+        "Neo Garcia"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "date",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-008",
+      "department": "Corporate Planning",
+      "destination": "Japan",
+      "employees": [
+        "Jose Aquino",
+        "Ana Balagtas",
+        "Lex Barcelona"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "Tambay sa entertainment district",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-009",
+      "department": "Corporate Planning",
+      "destination": "San Andres",
+      "employees": [
+        "Jose Aquino",
+        "Maria Gonzales",
+        "Neo Garcia"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "Hahahahahahha",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-010",
+      "department": "Corporate Planning",
+      "destination": "Mulanay",
+      "employees": [
+        "Maria Gonzales",
+        "Jose Aquino"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "test",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-011",
+      "department": "Corporate Planning",
+      "destination": "Gumaca",
+      "employees": [
+        "Maria Gonzales",
+        "Ana Balagtas"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "test",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-012",
+      "department": "Corporate Planning",
+      "destination": "San Andres",
+      "employees": [
+        "Neo Garcia",
+        "Maria Gonzales",
+        "Jose Aquino"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "test",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-013",
+      "department": "Corporate Planning",
+      "destination": "Mulanay",
+      "employees": [
+        "Maria Gonzales",
+        "Lex Barcelona"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "date",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-014",
+      "department": "Corporate Planning",
+      "destination": "San Andres",
+      "employees": [
+        "Maria Gonzales",
+        "Jose Aquino"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "adsadasd",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-015",
+      "department": "Corporate Planning",
+      "destination": "Alabat",
+      "employees": [
+        "Lex Barcelona"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "fgdfgfdg",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-016",
+      "department": "Corporate Planning",
+      "destination": "Gumaca",
+      "employees": [
+        "Maria Gonzales"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "asdasd",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-017",
+      "department": "Corporate Planning",
+      "destination": "Gumaca",
+      "employees": [
+        "Neo Garcia",
+        "Maria Gonzales"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "dadadad",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-018",
+      "department": "Corporate Planning",
+      "destination": "Mulanay",
+      "employees": [
+        "Neo Garcia",
+        "Lex Barcelona"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "sadasdasd",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-019",
+      "department": "Corporate Planning",
+      "destination": "asdasd",
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "aasdsadsad",
+      "employees": [],
+      "preparedByPosition": "Employee",
+      "assignatoryPosition": "Manager",
+      "dateTimeRange": {
+        "from": "Apr 14, 2025 09:00 AM",
+        "to": "Apr 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-020",
+      "department": "Corporate Planning",
+      "destination": "Alabat",
+      "employees": [
+        "Maria Gonzales",
+        "Jose Aquino"
+      ],
+      "preparedBy": "Jose Aquino",
+      "assignatory": "Ana Balagtas",
+      "purpose": "Gagala",
+      "preparedByPosition": "Employee",
+      "assignatoryPosition": "Employee",
+      "dateTimeRange": {
+        "from": "Apr 23, 2025 09:00 AM",
+        "to": "Apr 24, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-021",
+      "department": "Corporate Planning",
+      "destination": "San Andres",
+      "employees": [
+        "Jose Aquino",
+        "Ana Balagtas"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "Basketball",
+      "preparedByPosition": "Employee",
+      "assignatoryPosition": "Manager",
+      "dateTimeRange": {
+        "from": "Apr 23, 2025 09:00 AM",
+        "to": "Apr 24, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-022",
+      "department": "Corporate Planning",
+      "destination": "Saudi Arabia",
+      "employees": [
+        "Lex Barcelona",
+        "Maria Gonzales",
+        "Jose Aquino",
+        "Ana Balagtas"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautista",
+      "purpose": "Magbabasketball",
+      "preparedByPosition": "Employee",
+      "assignatoryPosition": "Manager",
+      "dateTimeRange": {
+        "from": "Apr 23, 2025 09:00 AM",
+        "to": "Apr 24, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    },
+    {
+      "id": "GP-023",
+      "department": "Engineering",
+      "destination": "Gumaca",
+      "employees": [
+        "Alfred Omnia",
+        "Lourdes Cortez",
+        "Rosa Ponce"
+      ],
+      "preparedBy": "Juan Dela Cruz",
+      "assignatory": "Rosa Ponce",
+      "purpose": "Magbabasketball",
+      "preparedByPosition": "Employee",
+      "assignatoryPosition": "Manager",
+      "dateTimeRange": {
+        "from": "May 15, 2025 07:00 AM",
+        "to": "May 15, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "juan"
+    },
+    {
+      "id": "GP-024",
+      "department": "Corporate Planning",
+      "destination": "Japan",
+      "employees": [
+        "Neo Garcia"
+      ],
+      "preparedBy": "Neo Garcia",
+      "assignatory": "Rosa Bautistmo",
+      "purpose": "To marry a japanese woman",
+      "preparedByPosition": "Employee",
+      "assignatoryPosition": "Manager",
+      "dateTimeRange": {
+        "from": "May 23, 2025 09:00 AM",
+        "to": "May 24, 2025 05:00 PM"
+      },
+      "status": "Pending",
+      "createdBy": "neo.garcia"
+    }
+  ],
+  "employees": [
+    {
+      "id": "EMP-001",
+      "firstName": "Neo",
+      "middleName": "Genesis",
+      "lastName": "Garcia",
+      "dob": "1990-03-15",
+      "gender": "Male",
+      "contactNumber": "09171234567",
+      "department": "Corporate Planning",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-002",
+      "firstName": "Maria",
+      "middleName": "Reyes",
+      "lastName": "Gonzales",
+      "dob": "1988-07-22",
+      "gender": "Female",
+      "contactNumber": "09281234568",
+      "department": "Corporate Planning",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-003",
+      "firstName": "Jose",
+      "middleName": "Villanueva",
+      "lastName": "Aquino",
+      "dob": "1995-11-10",
+      "gender": "Male",
+      "contactNumber": "09391234569",
+      "department": "Corporate Planning",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-004",
+      "firstName": "Ana",
+      "middleName": "Cruz",
+      "lastName": "Balagtas",
+      "dob": "1993-05-03",
+      "gender": "Female",
+      "contactNumber": "09401234570",
+      "department": "Corporate Planning",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-005",
+      "firstName": "Lex",
+      "middleName": "Mercado",
+      "lastName": "Barcelona",
+      "dob": "1992-12-18",
+      "gender": "Male",
+      "contactNumber": "09511234571",
+      "department": "Corporate Planning",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-006",
+      "firstName": "Rosa",
+      "middleName": "Lopez",
+      "lastName": "Bautistmo",
+      "dob": "1989-09-25",
+      "gender": "Female",
+      "contactNumber": "09621234572",
+      "department": "Corporate Planning",
+      "position": "Manager"
+    },
+    {
+      "id": "EMP-007",
+      "firstName": "Pedro",
+      "middleName": "Dela Rosa",
+      "lastName": "Salazar",
+      "dob": "1994-04-30",
+      "gender": "Male",
+      "contactNumber": "09731234573",
+      "department": "Internal Audit",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-008",
+      "firstName": "Isabel",
+      "middleName": "Martinez",
+      "lastName": "Riverdale",
+      "dob": "1991-06-12",
+      "gender": "Female",
+      "contactNumber": "09841234574",
+      "department": "Internal Audit",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-009",
+      "firstName": "Miguel",
+      "middleName": "Ramos",
+      "lastName": "Delos Reyes",
+      "dob": "1996-08-08",
+      "gender": "Male",
+      "contactNumber": "09951234575",
+      "department": "Internal Audit",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-010",
+      "firstName": "Lourdes",
+      "middleName": "Ponce",
+      "lastName": "Navarro",
+      "dob": "1987-02-14",
+      "gender": "Female",
+      "contactNumber": "09161234576",
+      "department": "Internal Audit",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-011",
+      "firstName": "Julia",
+      "middleName": "Gatchalian",
+      "lastName": "Tomas",
+      "dob": "1997-09-23",
+      "gender": "Female",
+      "contactNumber": "09271234577",
+      "department": "Internal Audit",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-012",
+      "firstName": "Sigfred",
+      "middleName": "Oliveros",
+      "lastName": "Oribiana",
+      "dob": "1999-01-01",
+      "gender": "Male",
+      "contactNumber": "09381234578",
+      "department": "Internal Audit",
+      "position": "Manager"
+    },
+    {
+      "id": "EMP-013",
+      "firstName": "Roxana",
+      "middleName": "Cruz",
+      "lastName": "Balagtas",
+      "dob": "1993-05-03",
+      "gender": "Female",
+      "contactNumber": "09401234570",
+      "department": "CAD",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-014",
+      "firstName": "Cesar",
+      "middleName": "Garcia",
+      "lastName": "Santiago",
+      "dob": "1992-12-18",
+      "gender": "Male",
+      "contactNumber": "09511234571",
+      "department": "CAD",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-015",
+      "firstName": "Rosa",
+      "middleName": "Lopez",
+      "lastName": "Bautista",
+      "dob": "1989-09-25",
+      "gender": "Female",
+      "contactNumber": "09621234572",
+      "department": "CAD",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-017",
+      "firstName": "Isabel",
+      "middleName": "Martinez",
+      "lastName": "Rivera",
+      "dob": "1991-06-12",
+      "gender": "Female",
+      "contactNumber": "09841234574",
+      "department": "CAD",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-018",
+      "firstName": "Miguel",
+      "middleName": "Ramil",
+      "lastName": "Delos Santos",
+      "dob": "1996-08-08",
+      "gender": "Male",
+      "contactNumber": "09951234575",
+      "department": "CAD",
+      "position": "Manager"
+    },
+    {
+      "id": "EMP-019",
+      "firstName": "Lourdes",
+      "middleName": "Comia",
+      "lastName": "Cortez",
+      "dob": "1987-02-14",
+      "gender": "Female",
+      "contactNumber": "09161234576",
+      "department": "Engineering",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-020",
+      "firstName": "Julia",
+      "middleName": "Roberto",
+      "lastName": "Delgado",
+      "dob": "1997-09-23",
+      "gender": "Female",
+      "contactNumber": "09271234577",
+      "department": "Engineering",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-021",
+      "firstName": "Alfred",
+      "middleName": "Oliveros",
+      "lastName": "Omnia",
+      "dob": "1999-01-01",
+      "gender": "Male",
+      "contactNumber": "09381234578",
+      "department": "Engineering",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-022",
+      "firstName": "Roxanne",
+      "middleName": "Cruz",
+      "lastName": "Bametas",
+      "dob": "1993-05-03",
+      "gender": "Female",
+      "contactNumber": "09401234570",
+      "department": "Engineering",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-023",
+      "firstName": "Cesar",
+      "middleName": "Daniel",
+      "lastName": "Nikolas",
+      "dob": "1992-12-18",
+      "gender": "Male",
+      "contactNumber": "09511234571",
+      "department": "Engineering",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-024",
+      "firstName": "Rosa",
+      "middleName": "Lopez",
+      "lastName": "Ponce",
+      "dob": "1989-09-25",
+      "gender": "Female",
+      "contactNumber": "09621234572",
+      "department": "Engineering",
+      "position": "Manager"
+    },
+    {
+      "id": "EMP-026",
+      "firstName": "Isabela",
+      "middleName": "Martinez",
+      "lastName": "Dantes",
+      "dob": "1991-06-12",
+      "gender": "Female",
+      "contactNumber": "09841234574",
+      "department": "Operations and Maintenance",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-027",
+      "firstName": "MIchael",
+      "middleName": "Ramil",
+      "lastName": "Delma",
+      "dob": "1996-08-08",
+      "gender": "Male",
+      "contactNumber": "09951234575",
+      "department": "Operations and Maintenance",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-028",
+      "firstName": "Lourd",
+      "middleName": "Cortez",
+      "lastName": "Poldo",
+      "dob": "1987-02-14",
+      "gender": "Male",
+      "contactNumber": "09161234576",
+      "department": "Operations and Maintenance",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-029",
+      "firstName": "Julie",
+      "middleName": "Manila",
+      "lastName": "Quzeon",
+      "dob": "1997-09-23",
+      "gender": "Female",
+      "contactNumber": "09271234577",
+      "department": "Operations and Maintenance",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-030",
+      "firstName": "Almada",
+      "middleName": "Orozco",
+      "lastName": "Opreson",
+      "dob": "1999-01-01",
+      "gender": "Male",
+      "contactNumber": "09381234578",
+      "department": "Operations and Maintenance",
+      "position": "Manager"
+    },
+    {
+      "id": "EMP-031",
+      "firstName": "Rolly",
+      "middleName": "Camias",
+      "lastName": "Balderas",
+      "dob": "1993-05-03",
+      "gender": "Male",
+      "contactNumber": "09401234570",
+      "department": "Finance",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-032",
+      "firstName": "Yuri",
+      "middleName": "Isaac",
+      "lastName": "Laygo",
+      "dob": "1992-12-18",
+      "gender": "Male",
+      "contactNumber": "09511234571",
+      "department": "Finance",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-033",
+      "firstName": "Princess",
+      "middleName": "Jairun",
+      "lastName": "Hamid",
+      "dob": "1989-09-25",
+      "gender": "Female",
+      "contactNumber": "09621234572",
+      "department": "Finance",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-034",
+      "firstName": "Ronaldo",
+      "middleName": "Lionel",
+      "lastName": "Messi",
+      "dob": "1994-04-30",
+      "gender": "Male",
+      "contactNumber": "09731234573",
+      "department": "Finance",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-035",
+      "firstName": "Cristiano",
+      "middleName": "Ronaldo",
+      "lastName": "Neymar",
+      "dob": "1991-06-12",
+      "gender": "Male",
+      "contactNumber": "09841234574",
+      "department": "Finance",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-036",
+      "firstName": "Vironica",
+      "middleName": "Lamban",
+      "lastName": "James",
+      "dob": "1996-08-08",
+      "gender": "Female",
+      "contactNumber": "09951234575",
+      "department": "Finance",
+      "position": "Manager"
+    },
+    {
+      "id": "EMP-037",
+      "firstName": "Shernizha",
+      "middleName": "Hamid",
+      "lastName": "Garcia",
+      "dob": "1987-02-14",
+      "gender": "Female",
+      "contactNumber": "09161234576",
+      "department": "Administrative",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-038",
+      "firstName": "Fatimah",
+      "middleName": "Singco",
+      "lastName": "Quinzon",
+      "dob": "1997-09-23",
+      "gender": "Female",
+      "contactNumber": "09271234577",
+      "department": "Administrative",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-039",
+      "firstName": "Aldous",
+      "middleName": "Hamilton",
+      "lastName": "Tulfo",
+      "dob": "1999-01-01",
+      "gender": "Male",
+      "contactNumber": "09381234578",
+      "department": "Administrative",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-040",
+      "firstName": "Leonora",
+      "middleName": "Corneo",
+      "lastName": "Robredo",
+      "dob": "1993-05-03",
+      "gender": "Female",
+      "contactNumber": "09401234570",
+      "department": "Administrative",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-041",
+      "firstName": "Rodrigo",
+      "middleName": "Roa",
+      "lastName": "Duterte",
+      "dob": "1992-12-18",
+      "gender": "Male",
+      "contactNumber": "09511234571",
+      "department": "Administrative",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-042",
+      "firstName": "Renneil",
+      "middleName": "Garcia",
+      "lastName": "Douche",
+      "dob": "1989-09-25",
+      "gender": "Male",
+      "contactNumber": "09621234572",
+      "department": "Administrative",
+      "position": "Manager"
+    },
+    {
+      "id": "EMP-043",
+      "firstName": "Maria",
+      "middleName": "Valencia",
+      "lastName": "Gonzaldo",
+      "dob": "1994-04-30",
+      "gender": "Female",
+      "contactNumber": "09731234573",
+      "department": "MSD",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-044",
+      "firstName": "Ceasar",
+      "middleName": "Valencia",
+      "lastName": "Gonzaldo",
+      "dob": "1991-06-12",
+      "gender": "Male",
+      "contactNumber": "09841234574",
+      "department": "MSD",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-045",
+      "firstName": "Ronald",
+      "middleName": "Molina",
+      "lastName": "Mesinas",
+      "dob": "1996-08-08",
+      "gender": "Male",
+      "contactNumber": "09951234575",
+      "department": "MSD",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-046",
+      "firstName": "Rene",
+      "middleName": "Denios",
+      "lastName": "Descartes",
+      "dob": "1987-02-14",
+      "gender": "Male",
+      "contactNumber": "09161234576",
+      "department": "MSD",
+      "position": "Employeee"
+    },
+    {
+      "id": "EMP-047",
+      "firstName": "Gusion",
+      "middleName": "Dolloso",
+      "lastName": "Harden",
+      "dob": "1997-09-23",
+      "gender": "Male",
+      "contactNumber": "09271234577",
+      "department": "MSD",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-048",
+      "firstName": "Alucard",
+      "middleName": "Molina",
+      "lastName": "Oribiana",
+      "dob": "1999-01-01",
+      "gender": "Male",
+      "contactNumber": "09381234578",
+      "department": "MSD",
+      "position": "Manager"
+    },
+    {
+      "id": "EMP-049",
+      "firstName": "Carmilla",
+      "middleName": "Cruz",
+      "lastName": "Cabello",
+      "dob": "1993-05-03",
+      "gender": "Female",
+      "contactNumber": "09401234570",
+      "department": "HR",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-050",
+      "firstName": "Joyce",
+      "middleName": "Coronado",
+      "lastName": "Banagan",
+      "dob": "1992-12-18",
+      "gender": "Female",
+      "contactNumber": "09511234571",
+      "department": "HR",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-051",
+      "firstName": "Cecilion",
+      "middleName": "Danoda",
+      "lastName": "Damnia",
+      "dob": "1989-09-25",
+      "gender": "Male",
+      "contactNumber": "09621234572",
+      "department": "HR",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-052",
+      "firstName": "Esmeralda",
+      "middleName": "Colonia",
+      "lastName": "España",
+      "dob": "1994-04-30",
+      "gender": "Female",
+      "contactNumber": "09731234573",
+      "department": "HR",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-053",
+      "firstName": "Yin",
+      "middleName": "Dela Torre",
+      "lastName": "Imnida",
+      "dob": "1991-06-12",
+      "gender": "Male",
+      "contactNumber": "09841234574",
+      "department": "HR",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-054",
+      "firstName": "Mark",
+      "middleName": "Villanueva",
+      "lastName": "Grayson",
+      "dob": "1996-08-08",
+      "gender": "Male",
+      "contactNumber": "09951234575",
+      "department": "HR",
+      "position": "Manager"
+    },
+    {
+      "id": "EMP-6969",
+      "firstName": "Jamaica",
+      "middleName": "Revuelta",
+      "lastName": "Gerbin",
+      "dob": "2001-09-01",
+      "gender": "Female",
+      "contactNumber": "09256531574",
+      "department": "Corporate Planning",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-117053",
+      "firstName": "Cristina",
+      "middleName": "Malo",
+      "lastName": "Yap-Diangco",
+      "dob": "2001-09-10",
+      "gender": "Female",
+      "contactNumber": "0927356555",
+      "department": "Operations and Maintenance",
+      "position": "Employee"
+    },
+    {
+      "id": "EMP-053842",
+      "firstName": "Juan",
+      "middleName": "",
+      "lastName": "Dela Cruz",
+      "dob": "1994-01-01",
+      "gender": "Male",
+      "contactNumber": "0927356555",
+      "department": "Engineering",
+      "position": "Employee"
+    }
+  ],
+  "users": [
+    {
+      "username": "neo.garcia",
+      "password": "neo123",
+      "firstName": "Neo",
+      "lastName": "Garcia",
+      "department": "Corporate Planning",
+      "position": "Employee",
+      "contactNumber": "09171234567",
+      "dob": "1990-03-15",
+      "gender": "Male",
+      "id": "USER-001"
+    },
+    {
+      "id": "USER-002",
+      "firstName": "Sigfred",
+      "middleName": "Oliveros",
+      "lastName": "Oribaiana",
+      "dob": "1999-01-01",
+      "gender": "Male",
+      "contactNumber": "09381234578",
+      "department": "Internal Audit",
+      "position": "Manager",
+      "username": "sigfred",
+      "password": "sigfred123"
+    },
+    {
+      "id": "USER-004",
+      "firstName": "Lourdes",
+      "middleName": "Comia",
+      "lastName": "Cortez",
+      "dob": "1987-02-14",
+      "gender": "Female",
+      "contactNumber": "09161234576",
+      "department": "Engineering",
+      "position": "Employee",
+      "username": "lourdes",
+      "password": "lourdes123"
+    },
+    {
+      "id": "USER-005",
+      "firstName": "MIchael",
+      "middleName": "Ramil",
+      "lastName": "Delma",
+      "dob": "1996-08-08",
+      "gender": "Male",
+      "contactNumber": "09951234575",
+      "department": "Operations and Maintenance",
+      "position": "Employee",
+      "username": "michael",
+      "password": "michael123"
+    },
+    {
+      "id": "USER-007",
+      "firstName": "Shernizha",
+      "middleName": "Hamid",
+      "lastName": "Garcia",
+      "dob": "1987-02-14",
+      "gender": "Female",
+      "contactNumber": "09161234576",
+      "department": "Administrative",
+      "position": "Employee",
+      "username": "shernizha",
+      "password": "shernizha123"
+    },
+    {
+      "username": "maria",
+      "password": "maria1234",
+      "firstName": "Maria",
+      "lastName": "Gonzaldo",
+      "department": "MSD",
+      "position": "Employee",
+      "contactNumber": "09731234573",
+      "dob": "1994-04-30",
+      "gender": "Female",
+      "id": "USER-008"
+    },
+    {
+      "id": "USER-ADMIN",
+      "firstName": "System",
+      "middleName": "",
+      "lastName": "Administrator",
+      "dob": "1990-01-01",
+      "gender": "Male",
+      "contactNumber": "09123456789",
+      "department": "Corporate Planning",
+      "position": "Administrator",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "USER-053827",
+      "username": "juan",
+      "password": "juan123",
+      "firstName": "Juan",
+      "middleName": "",
+      "lastName": "Dela Cruz",
+      "dob": "1994-01-01",
+      "gender": "Male",
+      "contactNumber": "0927356555",
+      "department": "Engineering",
+      "position": "Employee",
+      "status": "Pending",
+      "createdAt": "2025-05-15T06:36:52.595Z"
+    }
+  ],
+  "pendingSignups": [
+    {
+      "id": "PENDING-1744344640081",
+      "username": "Test",
+      "password": "test",
+      "firstName": "Test",
+      "middleName": "",
+      "lastName": "Tester",
+      "dob": "1995-01-01",
+      "gender": "Male",
+      "contactNumber": "0927356555",
+      "department": "Engineering",
+      "position": "Employee",
+      "status": "Pending",
+      "createdAt": "2025-04-11T04:10:40.081Z"
+    }
+  ],
+  "leaveRequests": [
+    {
+      "id": "LR-0001",
+      "name": "Jose Aquino",
+      "from": "2025-05-14T02:52:38.197Z",
+      "to": "2025-05-16T16:00:00.000Z",
+      "type": "Bereavement",
+      "shift": "Morning",
+      "totalDays": 3.5,
+      "preparedBy": "Neo Garcia",
+      "recommendingApproval": "Mark Grayson",
+      "status": "Pending"
+    },
+    {
+      "id": "LR-0002",
+      "name": "Isabel Rivera",
+      "from": "2025-05-15T16:00:00.000Z",
+      "to": "2025-05-16T16:00:00.000Z",
+      "type": "Sick Leave",
+      "shift": "Morning",
+      "totalDays": 1.5,
+      "preparedBy": "Neo Garcia",
+      "recommendingApproval": "Alucard Oribiana",
+      "status": "Pending"
+    },
+    {
+      "id": "LR-0003",
+      "name": "Maria Gonzales",
+      "from": "2025-05-15T01:40:23.021Z",
+      "to": "2025-05-16T16:00:00.000Z",
+      "type": "Sick Leave",
+      "shift": "Morning",
+      "totalDays": 3,
+      "preparedBy": "System Administrator",
+      "recommendingApproval": "Mark Grayson",
+      "status": "Pending"
+    }
+  ],
+  "forgotPasswordRequests": []
+}
